@@ -5,4 +5,4 @@ The original version is a small clone of [1024](https://play.google.com/store/ap
 ## License
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
-## Create your 2048: (https://www.udacity.com/course/make-your-own-2048--ud248)
+## Create your 2048: <a href="https://www.udacity.com/course/make-your-own-2048--ud248">Udacity</a></p> 
