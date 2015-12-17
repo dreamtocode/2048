@@ -1,5 +1,6 @@
 # 2048 for programmers
 
+This game was made for everyone who knows and speaks binary. 
 The original version is a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024).
 
 ## License
